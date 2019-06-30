@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,IACE,UAAW,CACX,WAAY,CACZ,kBAAmB,CACnB,wBACF","file":"main.f94260e7.chunk.css","sourcesContent":["img {\r\n  width: 75px;\r\n  height: 75px;\r\n  border-radius: 100%;\r\n  border: 1px solid #a9a9a9;\r\n}\r\n"]}

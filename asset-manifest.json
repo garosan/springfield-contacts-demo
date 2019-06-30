@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/springfield-contacts-demo/static/css/main.f94260e7.chunk.css",
+    "main.js": "/springfield-contacts-demo/static/js/main.c6314e92.chunk.js",
+    "main.js.map": "/springfield-contacts-demo/static/js/main.c6314e92.chunk.js.map",
+    "runtime~main.js": "/springfield-contacts-demo/static/js/runtime~main.b30764b8.js",
+    "runtime~main.js.map": "/springfield-contacts-demo/static/js/runtime~main.b30764b8.js.map",
+    "static/js/2.86a2265c.chunk.js": "/springfield-contacts-demo/static/js/2.86a2265c.chunk.js",
+    "static/js/2.86a2265c.chunk.js.map": "/springfield-contacts-demo/static/js/2.86a2265c.chunk.js.map",
+    "index.html": "/springfield-contacts-demo/index.html",
+    "precache-manifest.7644de5327650e1966052dd7a573fe40.js": "/springfield-contacts-demo/precache-manifest.7644de5327650e1966052dd7a573fe40.js",
+    "service-worker.js": "/springfield-contacts-demo/service-worker.js",
+    "static/css/main.f94260e7.chunk.css.map": "/springfield-contacts-demo/static/css/main.f94260e7.chunk.css.map"
+  }
+}
